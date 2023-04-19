@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm Rafi Ul Aanam</h1>
-<h3 align="center">I am Junior Developer</h3>
+<h1 align="center">Hi 👋, Welcome To Rafi's Github.</h1>
+<h3 align="center">I am React Js Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiulaanam&label=Profile%20views&color=0e75b6&style=flat" alt="rafiulaanam" /> </p>
 
-- 🔭 I’m currently working on **my development**
+ ## My Work Experience:
+- 🌱 I’m currently doing **Full-stack Development Intern**
 
-- 🌱 I’m currently learning **Javascript**
+- 🙋 Working at Hillborn Technologies Private Limited.
 
-- 👨‍💻 All of my projects are available at [https://rafiulaanam.github.io/my-portfolio/](https://rafiulaanam.github.io/my-portfolio/)
+- 🚀 Built Multiple Websites in Prsonal Projects
+
+- 👨‍💻 All of my projects are available at [https://rafi-developer.web.app/](https://rafi-developer.web.app/)
 
 - 📫 How to reach me **rafiulaanam@gmail.com**
+
+
+## What can i do? 
+- 🌱 I’m Full Time React JS developer.
+- 🌱 Learning Next JS, Typescript and Redux to enhance my skillset.
+- 💪 My strength in rapid responsive Designing.
+- 🎨 I can design amazing layout using tailwind DaisyUi, BootStrap, Material UI.
+- 👯 My skills are in designing, development SEO Optimization and Web Scrapping. 
+- 📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
+- 🧑💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux and JSON coding.
+- 🔨 Convert graphic designs to usable web images using React JS.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
