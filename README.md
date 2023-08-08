@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux, TypeScript, React Native**
 
-- 👨‍💻 All of my projects are available at [http//:anamcoder.vercel.app](http//:anamcoder.vercel.app)
+- 👨‍💻 All of my projects are available at [anamcoder.vercel.app](anamcoder.vercel.app)
 
 - 💬 Ask me about **Next js**
 
