@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think I am active listener and introvert**
 
-![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rafiulaanam.rafiulaanam)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiulaanam&label=Profile%20views&color=0e75b6&style=flat" alt="rafiulaanam" /> </p>
 
 ![Profile Follower Count](https://img.shields.io/github/followers/rafiulaanam.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
