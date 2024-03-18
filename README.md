@@ -1,11 +1,8 @@
 # 🖐 Assalam Walaikum , I am [Rafiul Anam](https://amamcoder.vercel.app)
+
+![Github Cover](githubcoverp.jpg)
+
 <h3 align="center">A passionate Full-stack Web Developer-MERN developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiulaanam&label=Profile%20views&color=0e75b6&style=flat" alt="rafiulaanam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiulaanam" alt="rafiulaanam" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rafiulaanam" target="blank"><img src="https://img.shields.io/twitter/follow/rafiulaanam?logo=twitter&style=for-the-badge" alt="rafiulaanam" /></a> </p>
 
 ### Here are some ideas about me
 - 🌱 I’m currently learning **Redux, TypeScript, React Native**
