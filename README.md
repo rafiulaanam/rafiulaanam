@@ -1,4 +1,7 @@
 # 🖐 Assalam Walaikum , I am [Rafiul Anam](https://amamcoder.vercel.app)
+
+![Github Cover](githubcoverp.jpg)
+
 <h3 align="center">A passionate Full-stack Web Developer-MERN developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiulaanam&label=Profile%20views&color=0e75b6&style=flat" alt="rafiulaanam" /> </p>
