@@ -69,7 +69,9 @@
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/rafiulaanam)
 
 
-
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rf-rifat&theme=github_dark" alt="GitHub Pie Chart" />
+</div>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiulaanam&show_icons=true&theme=dark)
 
 # 🚀 Some Projects
