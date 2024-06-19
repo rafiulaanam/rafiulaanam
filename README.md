@@ -70,7 +70,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiulaanam&show_icons=true&theme=dark)
 
-<div align="center">
+<div align="">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafiulaanam&theme=github_dark" alt="GitHub Pie Chart" />
 </div>
 # 🚀 Some Projects
